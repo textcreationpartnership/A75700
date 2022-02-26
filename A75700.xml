@@ -1,0 +1,254 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A perfect relation of all the passages and proceedings of the Marquesse Hartford, the Lord Paulet, and the rest of the Cavelleers that were with them in Wels. With the valiant resolution and behaviour of the trained-bands and other inhabitants of those parts, for the defence of themselves, the King and Parliament. As also what helpe was sent from Bristoll to their ayd; with the manner of the Lords and Cavaleers running out of the towne. And many other things very remarkable. As it was sent in a letter from the committee in Summersetshire to both Houses of Parliament. Ordered by the Lords in Parliament, that this letter be forthwith printed and published. J. Brown Cler. Parliamentorum.</title>
+            <author>Ashe, John, Esquire.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 15 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A75700</idno>
+            <idno type="STC">Wing A3945</idno>
+            <idno type="STC">Thomason E111_5</idno>
+            <idno type="STC">ESTC R19363</idno>
+            <idno type="EEBO-CITATION">99860649</idno>
+            <idno type="PROQUEST">99860649</idno>
+            <idno type="VID">112774</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A75700)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 112774)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 20:E111[5])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A perfect relation of all the passages and proceedings of the Marquesse Hartford, the Lord Paulet, and the rest of the Cavelleers that were with them in Wels. With the valiant resolution and behaviour of the trained-bands and other inhabitants of those parts, for the defence of themselves, the King and Parliament. As also what helpe was sent from Bristoll to their ayd; with the manner of the Lords and Cavaleers running out of the towne. And many other things very remarkable. As it was sent in a letter from the committee in Summersetshire to both Houses of Parliament. Ordered by the Lords in Parliament, that this letter be forthwith printed and published. J. Brown Cler. Parliamentorum.</title>
+                  <author>Ashe, John, Esquire.</author>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>12. August, 1642. London, Printed for Ioseph Hunscot, and I Wright,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>[1642]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed and dated at end: Freshford. 7 Aug. 1642. John Ashe.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Somerset, William Seymour, --  Duke of, 1588-1660.</term>
+               <term>Winchester, John Paulet, --  Earl of, 1598-1675.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Campaigns --  Early works to 1800.</term>
+               <term>Wells (England) --  History --  17th century --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-03</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-10</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2013-10</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:112774:1" rendition="simple:additions"/>
+            <p> A Perfect RELATION OF All the paſſages and proceedings of the Marqueſſe <hi>Hartford,</hi> the Lord <hi>Paulet,</hi> and the reſt of the Cavelleers that were with them in <hi>Wels.</hi>
+            </p>
+            <p>With the valiant reſolution and behaviour of the Trained-bands and other Inhabitants of thoſe parts, for the defence of themſelves, the <hi>King</hi> and <hi>Parliament.</hi>
+            </p>
+            <p>As alſo what helpe was ſent from <hi>Briſtoll</hi> to their ayd; with the manner of the Lords and Cavalee<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s running out of the Towne.</p>
+            <p>And many other things very remarkable.</p>
+            <p>As it was ſent in a Letter from the Com<g ref="char:EOLhyphen"/>mittee in <hi>Summerſetſhire</hi> to both Houſes of PARLIAMENT.</p>
+            <floatingText type="license" xml:lang="eng">
+               <body>
+                  <p>
+                     <hi>ORdered by the Lords in Parliament, that this Letter be forthwith printed and pub<g ref="char:EOLhyphen"/>liſhed.</hi> J. Brown Cler. Parliamentorum.</p>
+                  <closer>
+                     <dateline>
+                        <date>12. <hi>Auguſt,</hi> 164<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>.</date>
+                     </dateline>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>
+               <hi>London,</hi> Printed for <hi>Ioſeph Hunſcot,</hi> and <hi>I Wright.</hi>
+            </p>
+            <pb facs="tcp:112774:2"/>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="3" facs="tcp:112774:2"/>
+            <head>A Perfect Relation from the Com<g ref="char:EOLhyphen"/>mittee of <hi>Sommerſetſhire.</hi>
+            </head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">F</seg>Or want of time to give you a large and per<g ref="char:EOLhyphen"/>fect relation of all that hath paſt here ſince our meeting at <hi>Shepton-Mallet</hi> upon munday laſt, of which you had by our laſt letters a full relation, I am commanded by the Com<g ref="char:EOLhyphen"/>mittee, and Deputy-Lieutenants to ſend you a briefe information, untill the other be perfected; and the rather becauſe of the conveniency of this conveyance by your meſſenger Maſter <hi>Combs,</hi> who hath done you very good ſer<g ref="char:EOLhyphen"/>vice, and adventured himſelfe very far to obſerve the doings and behaviour of Captaine <hi>Digby,</hi> upon whom he hath atten<g ref="char:EOLhyphen"/>ded ſome 14 or 16 dayes to his great expence, and hazard of his life. After our meeting upon munday aforeſayd. The Lord Marqueſſe with the other Lords, Knights, and Gentle<g ref="char:EOLhyphen"/>men lodged altogether at <hi>Wells,</hi> they laboured to bring in thither all the great Horſes that poſſibly they could procure, and make up amongſt themſelves and their friends, and had gathered together about 500 excellent good Horſes very well armed, and manned with many deſperate companions. Up<g ref="char:EOLhyphen"/>on wedneſday morning the Gentlemen, to wit Sir <hi>Ralph Hop<g ref="char:EOLhyphen"/>ton,</hi> Sir <hi>Iohn Strewell</hi> and the reſt accompained with all their Horſeman came from <hi>Wells</hi> to <hi>Shepton-Malet,</hi> and rode through the Town up unto a certaine great Hill neere <hi>Shep<g ref="char:EOLhyphen"/>ton</hi> called <hi>Mendeepe,</hi> which being obſerved by the people (who were thereby ſtroken into a great affrightment and ter<g ref="char:EOLhyphen"/>ror) they forthwith ſent ſcouts and poſts unto every Gentle<g ref="char:EOLhyphen"/>mans houſe that lay on that ſide <hi>Mend<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>epe,</hi> to wit, unto Sir
+<pb n="4" facs="tcp:112774:3"/> 
+               <hi>Iohn Horner,</hi> Maſter <hi>Alexander Popham</hi> and my ſelfe moſt eſ<g ref="char:EOLhyphen"/>pecially, willing us to looke unto our ſelves, for that theſe Cavaleer<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> were comming to deſtroy us, or greatly to miſchiefe us, and all the good Gentlemen in theſe parts of the Country, this cauſed very great ſtir and cumbuſtion in the Country, and every man a<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>med and made ready for their comming, But thoſe Gentlemen with their Cavaleers after they had made a bravado a mile or two upon the Hill beyond <hi>Sh<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>pton,</hi> retur<g ref="char:EOLhyphen"/>ned again to the ſame Towne whe<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e they ſpent a ſhort time, refreſhing themſelves at the Innes and Taverns, during which t<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e ſome of their Cavaleers marching about the Town found out all the honeſt religious men<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> houſes that were there, thoſe houſes they brake, into plundered, and robbed, eſpecially of all Armes and Amunition, and made <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he owners with their wives and children to forſake their h<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uſes, and hide themſelves for feare of their lives, and never durſt to returne home untill yeſterday; But after the G<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ntemen had refreſh<g ref="char:EOLhyphen"/>ed themſelues, and the Cavaleers done their ſaid pranckes, they departed againe to <hi>Wells,</hi> when they had ordered the billiting of 100 of their Troopers there upon them of <hi>Sbepton;</hi> upon this their bold march and bravado Sir <hi>Iohn Horner</hi> cal<g ref="char:EOLhyphen"/>led many of his Neighbours, and Tenants together and ar<g ref="char:EOLhyphen"/>med them or cauſed them to be armed, and ſo marched away unto Maſtar <hi>Alexander Popham,</hi> to whom reſorted preſently above 1000 armed men ready to ſpend their lives for the ſayd Gentlem<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ns ſafety.</p>
+            <p>From thence upon Friday morning they all marched to<g ref="char:EOLhyphen"/>gether unto the place <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ppointed for that dayes meeting, in the Towne of <hi>Chewton,</hi> which Towne lieth about 4 or 5 miles diſtant from <hi>Wells,</hi> and the great vaſt <hi>Mendeepe</hi> Hill<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> lying betweene the ſaid Towne and that of <hi>Wells,</hi> and thither came unto us all the Trained Bands of that quarter of the ſhire, and eſpecially Maſter <hi>Pophams</hi> Regiment, compleate in number, nay doubled twice over by meanes of volunteers, who came beſt armed and were moſt ready in the uſe of their Armes. At <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>his place met ſome of your Commit<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ees, and ſome of your deputy Lieutenants, to wit, Sir <hi>Edward Hungerford</hi> (who lent Armes of his owne unto 150 or 200 volunteers)
+<pb n="5" facs="tcp:112774:3"/> Sir <hi>Iohn Horner,</hi> Maſter <hi>Alexander Popham<g ref="char:punc">▪</g>
+               </hi> Maſter <hi>Cole,</hi> Maſter <hi>Harbyn,</hi> Maſter <hi>Hipſly,</hi> and my ſelfe, and after we had beene upon the place about one or two houres our company was increaſed to the number of about 40 thouſand as we<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> did conceive, many of theſe had no more weapons but their ſwords, yet all came to ſhew their affections to the King and Parliament, and to oppoſe with the haz<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rd of their lives the Lord Marqueſſe, and his company with their commſſion of Array, This great company was made up of all the Gentry, &amp; Yeamondry, and laſtly youths that inhabitted in the north<g ref="char:EOLhyphen"/>eaſt part of the County, there came unto us every one of Maſter <hi>Smiths</hi> Tennants 4<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Yeomen well armed, and all the Inhabitants in that quarter where Sir <hi>Ralph Hopton</hi> liveth un<g ref="char:EOLhyphen"/>to his very Gates.</p>
+            <p>There came alſo out of thoſe parts of <hi>Wiltſhire</hi> ne<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>re Sir <hi>Edward Hungerfords</hi> quarter, about 2 or 3 hundred Horſemen ſome of them well armed, the reſt onely a ſword and a pocket Piſtoll; there came likewiſe above 300 luſty ſtout men of very good ranke and quality of the City of <hi>Briſtoll,</hi> all of them on Horſeback with Swords, Piſtolls, or Carbines; there came from <hi>Gloſterſhire</hi> a Company of Foote well armed, conſiſting of 250, or 300 men led by a valiant and expert Captaine; they were not of the Trained Bands, but all volunteers.</p>
+            <p>Theſe with the reſt diſcovered aboundance of ſtouteneſſe and reſolution, wee had likewiſe two Waynes loaden with Powder, Bullet, and Match and ſome Armes ſent us by the honeſt good men of <hi>Briſtoll,</hi> with two Waines more loaden with foure ſmal field peeces, and their carriages, and two Gun<g ref="char:EOLhyphen"/>ners; although the Major and ſheriffes of <hi>Briſtoll</hi> by the meanes of the Lord <hi>Pawlet,</hi> and Maſter <hi>Smith</hi> (as we were informed) did hinder and oppoſe it with all their skill, by one or two of the clocke we had put our Company in order, but with much adoe for want of expert Souldiers and Com<g ref="char:EOLhyphen"/>manders, which done the Souldiers (although they had nei<g ref="char:EOLhyphen"/>ther meate nor drinke) could not be ſtayed, but would march over the Hill which was neere foure miles, untill they came in ſight of <hi>Wells,</hi> and there pitched upon a great Hill in view of the Towne; by this time the day was neere ſpent and vi<g ref="char:EOLhyphen"/>ctualls
+<pb n="6" facs="tcp:112774:4"/> we had none nor could we get any upon the ſuddaine, yet ſuch was the courage and reſolution of our Company, that after they had planted their Ordnance, they would not dep<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rt that place but lay all that night upon the Hill, faſt<g ref="char:EOLhyphen"/>ing and in the <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>old, and ſpent the time in prayers and ſing<g ref="char:EOLhyphen"/>ing of Pſalmes, Sir <hi>Iohn Hornor,</hi> and Maſter <hi>Alexander Pop<g ref="char:EOLhyphen"/>h<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>m</hi> with his two valiant Brothers, and Sir <hi>Iohn Horners</hi> youngeſt ſonne, with many other young Gentlemen, Cap<g ref="char:EOLhyphen"/>taines, and others, lay all that night in their Armes upon Fursbuſhes in the open Fields amidſt the Camp, the old Knight often ſaying that his Furs-Bed was the beſt that ever he lay upon. It was very much to be admired, that the ſpirits and reſolutions of ſo great a Company, and men ſo tenderly b<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ed could be kept up to tha<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> hight, as to indure ſo much hunger <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd cold. But ſuch was the love and affections of all the County within 6. 8. and 10 miles diſtance that by the next mo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ning day light they ſent in ſuch proviſions of all ſorts in Waynes, Carts, and on Horſes, that this great Company had ſufficient and to ſpare both for breakfaſt, and dinner, and would not take one penny for it, nay many men did car<g ref="char:EOLhyphen"/>ry home againe their proviſions, for want of company to eate it.</p>
+            <p>After our Camp had been victualled, we your Committees and Deputy-Lieutenants could ſcarce prevaile with them, but upon the Towne they would fall, they would deſtroy the Cavalleers and take the Incendiaries, thoſe Delinquent Gen<g ref="char:EOLhyphen"/>tlemen then with the Marqueſſe and carry them to the Par<g ref="char:EOLhyphen"/>liament. Thus farre I have made you a true and perfect rela<g ref="char:EOLhyphen"/>tion, the reſt of the ſtory (becauſe it concernes the Lord Mar<g ref="char:EOLhyphen"/>queſſe <hi>Hartford,</hi> the Lord <hi>Seymore,</hi> and the Lord <hi>Paulet</hi> (and its reported an Earle and ſome Lords more) beſides the Gen<g ref="char:EOLhyphen"/>tlemen my neighbours, of which were twelve Knights beſides M. <hi>Smith,</hi> M. <hi>Wyndham,</hi> M. <hi>Kirton,</hi> and other Eſquires) I ſhall at this time omit, untill your Committees and Deputy-Lieu<g ref="char:EOLhyphen"/>tenants give their conſent to that which ſhall be written; onely I ſhall tell you that before we removed from <hi>Chewton,</hi> the Lord Marqueſſe, &amp;c. ſent us a Meſſage to ſtay there, and to finde a way to preſerve the peace of the County; in our next
+<pb n="7" facs="tcp:112774:4"/> you ſhall receive a copy of that meſſage, for I have it not by me. Our anſwer was that for want of the reſt of our Deputy-Lieutenants and Committees which we expected every houre, we deferred our full anſwer untill the next day: the next day we ſent five propoſitions unto them, with adviſe that if they were not yeelded unto very ſpeedily, we ſhould not be able to keep our Souldiers from falling upon them, they deſired time for an houre or two to conſider of an anſwer to our propoſi<g ref="char:EOLhyphen"/>tions, and in the meane time whilſt we expected the anſwer, and our ſouldiers very impatient with the delay, They, the Lords, Knights, Gentlemen, and Cavalleres forſooke the Town and rod all way. In this I have been briefe in regard I have not all the papers by me in which the meſſages are contained, it gave the ſouldiers ſome content to go down into the Town to ſee the place where theſe leud Cavalleers their enemies lay. Some of us went down with them to keepe all things in order and quiet (when we could not prevaile nor perſwade them to depart without going into the Town) we left all in quiet and doe hope that thoſe which remained there after our departute were not diſorderly, unleſſe they were provoked by the Cathe<g ref="char:EOLhyphen"/>drall Company.</p>
+            <p>Upon all this relation, you may cleerely ſee the condition and ſtout reſolution of our good Country men, how ever here<g ref="char:EOLhyphen"/>tofore ill thought of. But obſerve I pray you, this company now appointed to muſter at <hi>Chewton</hi> was the Regiment onely under M. <hi>Popham</hi> called <hi>Bath-regiment,</hi> and ſome part of <hi>Wels-regiment,</hi> they all dwelt within the compaſſe of one quarter of our ſhi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e, and they were the <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eſt and principalleſt Company from whom Sir <hi>Ralph Hopton,</hi> Sir <hi>Francis Dorrington,</hi> and M. <hi>Smith</hi> might expect obedience, and over whom they had the greateſt power heretofore. M. <hi>Rogers,</hi> M. <hi>Fra<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>cis,</hi> M. <hi>Pyne,</hi> nor M. <hi>Sirode</hi> did appeare at our muſter, nor could bring or ſend us one man, for as they were comming up unto us with ſome Gentlemen and good Yeomen of thoſe parts to ac<g ref="char:EOLhyphen"/>company them, they were met by the way with Sir <hi>J. Stowell</hi> and his two ſonnes, and about 120, or 140. of the deſperate Cavaleers, by whom ſome of the ho<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eſt countrey men w<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>re wounded and ſlaine, and ſo for want of powder and ſh<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t not
+<pb n="8" facs="tcp:112774:5"/> able to reſiſt, they <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eturned home againe, and came not for<g ref="char:EOLhyphen"/>ward unto us. I ſhall leave this relation to M. <hi>Pyne</hi> and M. <hi>Strode</hi> who were eye-witneſſes to what was done. But this wounding and killing hath very much daunted the honeſt <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ountrey-man, yet not to forſake his good reſolut<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ons; for I am confident that the Commiſſioners of Array will never be able to make any of them to fight to maintaine them or their Commiſſion, for when they were at <hi>Wels</hi> that friday which we came to <hi>Chewton,</hi> they had got into <hi>Wels</hi> by faire meanes and by foule, about 400. of the Trayned-bands and Volunteers, but that Friday at night (as we were credibly informed) they all ſtole away out of the Towne, and ſome of them came up the hill unto us upon Saturday morning. But ſir, having now done with the relation, the Committee and Deputy-lieut<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>nants do very much feare, that the Lords and the other Com<g ref="char:EOLhyphen"/>miſſioners will attempt againe in ſome other part of the County, and ſo may doe us extreame miſchiefe in caſe they prevaile any where to raiſe a regiment of Foot; Wher<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>fore I doe humbly pray you in the behalfe of this county<g ref="char:punc">▪</g> that with<g ref="char:EOLhyphen"/>out any further loſſe of time, ten or twenty good Comman<g ref="char:EOLhyphen"/>ders with ſome ammunition may be ſpeedily ſent down unto us, and that my Lord of <hi>Bedford</hi> with three or foure hundred horſe would preſently come amongſt us. And then I am con<g ref="char:EOLhyphen"/>ſident you ſhall finde this County as right as the beſt; but if you ſhould forget us, and my Lord not ſpeedily to come unto us, we may notwithſtanding (after this very good be<g ref="char:EOLhyphen"/>ginning) be yet loſt, and we all deſtroyed by the Cavaleers. Sir, I have been over tedious, and treſpaſſed upon your pati<g ref="char:EOLhyphen"/>ence, wherefore pardon I pray you,</p>
+            <closer>
+               <signed>Your moſt humble ſervant, <hi>John Aſhe.</hi>
+               </signed>
+               <dateline>
+                  <hi>Freſhford.</hi> 
+                  <date>7 Aug. 1642.</date>
+               </dateline>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
